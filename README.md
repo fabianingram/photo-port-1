@@ -3,11 +3,6 @@
 ## Description 
   
   This single page application (SPA) was created using React.js. It is a portfolio that displays a photographer's work of art and my dev skills so far. If you have any questions, please feel free to reach out. 
-
-  ## Table of Contents
-  * [Installation](#installation)
-  * [In-use](#in-use)  
-  * [Contributors](#contributors)
   
   
   ## Installation
